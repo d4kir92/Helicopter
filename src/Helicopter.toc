@@ -1,5 +1,5 @@
-## Interface: 100005
-## Version: 1.0.0
+## Interface: 120005, 120001, 100005
+## Version: 1.0.1
 ## Title: Helicopter
 ## Notes: Helicopter desc
 ## Author: puffyDr
